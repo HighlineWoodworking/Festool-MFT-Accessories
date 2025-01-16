@@ -1,2 +1,2 @@
-# MFT-Accessories
-Accessories for a Festool MFT table.
+# Festool MFT Accessories
+CNC files and notes on how to create various accessories for a Festool MFT/3 table.
