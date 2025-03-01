@@ -1,4 +1,13 @@
 # Festool MFT Accessories
-Files and notes on how to create accessories for a [Festool MFT/3 Table](https://www.festoolusa.com/accessories/sawing/underframes-and-work-benches/work-benches/495315---mft3) using a CNC machine.  
+
+Accessories for a [Festool MFT/3 Table](https://www.festoolusa.com/accessories/sawing/underframes-and-work-benches/work-benches/495315---mft3).
+
+<a href="pucks/README.md"><img src="pucks/images/3d_rendering.png" width="50%" /></a>
+
+[Pucks](pucks/README.md)
+
+## Using
+
+Projects and files are 100% free to use under [CC0](https://creativecommons.org/public-domain/cc0/).
 
 Items can also be ordered from the [Highline Woodworking Etsy Shop](https://www.etsy.com/shop/HighlineWoodworking).
