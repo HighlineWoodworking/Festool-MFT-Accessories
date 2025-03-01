@@ -4,10 +4,8 @@ Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/
 
 <img src="images/pucks.png" alt="MFT pucks." width="50%" />
 
-## Tools and Materials
+## Tools
 
-* CNC machine
-* 3/4 inch MDF
 * 1/4 inch end-mill, only required bit, good examples:
   * [Cadence Manufacturing "The Jenny"](https://www.cadencemfgdesign.com/product-page/the-jenny-bit-8675309)
   * [Woodpeckers US2100U](https://www.woodpeck.com/ultra-shear-2-flute-quarter-inch-solid-carbide-spiral-bits.html)
