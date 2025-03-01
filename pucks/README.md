@@ -4,13 +4,15 @@ Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/
 
 <img src="images/pucks.png" alt="MFT pucks." width="50%" />
 
-## Tools
+## Tools and Materials
 
 * 1/4 inch end-mill, only required bit, good examples:
   * [Cadence Manufacturing "The Jenny"](https://www.cadencemfgdesign.com/product-page/the-jenny-bit-8675309)
   * [Woodpeckers US2100U](https://www.woodpeck.com/ultra-shear-2-flute-quarter-inch-solid-carbide-spiral-bits.html)
 * 90 deg v-bit for edge chamfers, 1/4 inch cutting diameter to fit in channels made by outline:
   * [SpeTool W06007](https://spetools.com/products/spetool-w06007-v-groove-chamfer-router-bit-1-4-dia-1-4-shank-90-deg)
+* 315 x 165 mm MDF to make eight pucks
+* 3/4 inch material for pucks with holes and pins, 1/2 inch material for through hole pucks
   
 ## Two-Sided Machining
 
