@@ -16,20 +16,7 @@ Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/
   
 ## Machining
 
-### 90deg V-bit
-
-* softens edges, makes feet easier to insert, adds label
-* machine along the vectors
-* layers ```Outlines and Feet Insets``` final depth 1mm
-* layer ```Highline Woodworking``` 0.2mm (skip entirely if you don't want the text label or change to your own)
-
-### 1/4 inch End-Mill
-
-* cuts insets for feet and the final outline for the piece
-* layer ```Feet Insets``` area clear inside the circles, final depth 8mm
-* layer ```Outlines``` cut outside the vectors, 13.1mm final depth
-  * add bridges or other supports
-  * example bridges: 8 x 30mm long x 1mm thick
+* Two sided machining
 
 ## Files
 
@@ -37,13 +24,7 @@ Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/
 
 ## Dimensions
 
-<img src="images/main_dimensions.png" alt="Main dimensions." width="50%" />
-
-<img src="images/alignment_hole_dimensions.png" alt="Alignment hole dimensions." width="50%" />
-
-## Versions
-
-* v01 | 10-Feb-2025 | inital post
+TODO: Add images.
 
 
 
