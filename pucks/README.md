@@ -16,10 +16,10 @@ Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/
 
 Side one has a hole and side two has a pin.  Pucks fit in the 20mm MFT dog holes, and stack on one another.
 
-Example machining procedure using alignment holes in the spoil board that are parallel to the x-axis.
+Example machining procedure using alignment holes in the spoil board that are parallel to the x-axis.  Drawing is symmetrical about the x-axis so the sides can be referenced from the lower-left or upper-right corners.
 
 * align bottom edge of material to pins along the x-axis
-* material edge must be straight and perpendicular to top and bottom
+* material edge must be straight and perpendicular to top and bottom sides
 * zero to lower-left corner with drawing origin also lower-left (x and y increase to right and up respectively)
 * cut holes and chamfers
 * flip material along x-axis, former lower-left top is now on the bottom of the upper-left corner
