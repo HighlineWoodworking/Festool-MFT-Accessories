@@ -8,7 +8,7 @@ Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/
 
 * CNC machine
 * 3/4 inch MDF
-* 1/4 inch end-mill, only absolutely required bit, good examples:
+* 1/4 inch end-mill, only required bit, good examples:
   * [Cadence Manufacturing "The Jenny"](https://www.cadencemfgdesign.com/product-page/the-jenny-bit-8675309)
   * [Woodpeckers US2102C](https://www.woodpeck.com/ultra-shear-quarter-inch-spiral-compression-bits.html)
 * 90 deg v-bit for edge chamfers
