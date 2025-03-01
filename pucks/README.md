@@ -1,4 +1,4 @@
-# Creality Falcon2 Base
+# MFT Pucks
 
 Provides a secure foundation for a [Creality Falcon2 Laser Frame](https://www.creality.com/products/creality-falcon2-22w) and supports precise, repeatable positioning of work pieces.
 
