@@ -14,9 +14,9 @@ Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/
 * 90 deg v-bit for edge chamfers, 1/4 inch cutting diameter to fit in channels made by outline:
   * [SpeTool W06007](https://spetools.com/products/spetool-w06007-v-groove-chamfer-router-bit-1-4-dia-1-4-shank-90-deg)
   
-## Machining
+## Two-Sided Machining
 
-Two-sided, side one has a hole and side two has a pin.  Pucks fit in the 20mm MFT dog holes, and stack on one another.
+Side one has a hole and side two has a pin.  Pucks fit in the 20mm MFT dog holes, and stack on one another.
 
 Example machining procedure using alignment holes in the spoil board that are parallel to the x-axis.
 
