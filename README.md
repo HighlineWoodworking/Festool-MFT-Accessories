@@ -10,4 +10,3 @@ Accessories for a [Festool MFT/3 Table](https://www.festoolusa.com/accessories/s
 
 Projects and files are 100% free to use under [CC0](https://creativecommons.org/public-domain/cc0/).
 
-Items can also be ordered from the [Highline Woodworking Etsy Shop](https://www.etsy.com/shop/HighlineWoodworking).
