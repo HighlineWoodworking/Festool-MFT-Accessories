@@ -2,7 +2,7 @@
 
 Accessories for a [Festool MFT/3 Table](https://www.festoolusa.com/accessories/sawing/underframes-and-work-benches/work-benches/495315---mft3).
 
-<a href="pucks/README.md"><img src="pucks/images/3d_rendering.png" width="50%" /></a>
+<a href="pucks/README.md"><img src="pucks/images/pucks.png" width="50%" /></a>
 
 [Pucks](pucks/README.md)
 
