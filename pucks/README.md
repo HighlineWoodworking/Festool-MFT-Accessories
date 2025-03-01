@@ -1,6 +1,6 @@
 # MFT Pucks
 
-Pucks to support material for a [Festool MFT/3 Table](https://www.festoolusa.com/accessories/sawing/underframes-and-work-benches/work-benches/495315---mft3).
+Pucks to support material on a [Festool MFT/3 Table](https://www.festoolusa.com/accessories/sawing/underframes-and-work-benches/work-benches/495315---mft3).
 
 <img src="images/pucks.png" alt="MFT pucks." width="50%" />
 
@@ -33,10 +33,7 @@ Pucks to support material for a [Festool MFT/3 Table](https://www.festoolusa.com
 
 ## Files
 
-* base_v01.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) source file
-* base_v01.dxf = [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) exported source file
-* base_v01.dwg = AutoCad drawing file created with [Siemens Solid Edge 2D](https://resources.sw.siemens.com/en-US/download-free-2d-cad-software/)
-* laser_grid.nc = [G-code](https://en.wikipedia.org/wiki/G-code) file to burn an alignment grid into the completed MDF base
+* 60mm_pucks_two.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) source file
 
 ## Dimensions
 
